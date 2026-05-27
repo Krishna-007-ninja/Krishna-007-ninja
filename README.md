@@ -1,5 +1,6 @@
-# 💫 About Me:
-BCA student | MERN Stack Developer  <br>Building real-world projects with React, Node.js, Express, MongoDB, and PostgreSQL.
+# About Me:
+BCA student and aspiring full-stack developer focused on MERN stack and backend development.
+Building real-world web applications using React.js, Node.js, Express.js, MongoDB, and PostgreSQL.
 
 
 ## 🌐 Socials:
